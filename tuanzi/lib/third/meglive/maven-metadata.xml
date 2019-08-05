@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>tuanzi.lib.third</groupId>
+  <artifactId>meglive</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190802092234</lastUpdated>
+  </versioning>
+</metadata>
